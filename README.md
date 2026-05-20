@@ -1,6 +1,6 @@
 # 🎨 Adithyan's Portfolio: Where Art Meets Technology
 
-Welcome to my digital space! This isn't just a website—it's an interactive experience designed to show you what's possible when creativity and high-end engineering come together.
+Welcome to my digital space! This isn't just a website it's an interactive experience designed to show you what's possible when creativity and high-end engineering come together.
 
 > [!TIP]
 > **Live Preview**: [adithyan-portfolio.pages.dev](https://adithyan-portfolio.pages.dev/)
